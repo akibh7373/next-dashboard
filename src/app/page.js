@@ -1,9 +1,9 @@
-import Image from "next/image";
+import SideBar from "./components/SideBar";
 
 export default function Home() {
   return (
     <div>
-      <h1>NFT Dashboard</h1>
+      <SideBar />
     </div>
   );
 }
