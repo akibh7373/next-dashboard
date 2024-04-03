@@ -10,6 +10,11 @@ export default function SideBar() {
       <span className="inline-block mt-16 mb-3 capitalize text-sm font-medium text-slate-600 ">
         overview
       </span>
+      <ul>
+        <li>
+          <a href="#">dashboard</a>
+        </li>
+      </ul>
     </div>
   );
 }
